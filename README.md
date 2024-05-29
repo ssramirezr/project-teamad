@@ -1,4 +1,4 @@
-Homework 2 Made by: Alejandro Carmona S and David Restrepo A
+Final Project Made by: Alejandro Carmona S and David Restrepo A
 
 Developed on MacOS Sonoma (14.4.1) using Visual Studio Code version 1.88.1 (Universal) with Python 3.11.2. Tools used to complete the assingment: Dexter C. Kozen Automata and Computability.
 
